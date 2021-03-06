@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# markdown tutorial
+# week 7 UNV-101
+# Steven Gascon
