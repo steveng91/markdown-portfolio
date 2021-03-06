@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of ape caves](https://i.pinimg.com/originals/44/fe/dc/44fedcd0242345282a9d560489a54b6f.jpg)
